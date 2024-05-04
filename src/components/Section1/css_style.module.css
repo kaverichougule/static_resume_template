@@ -1,0 +1,8 @@
+.NameDisplay{
+    text-align:left;
+    width: 50%;
+}
+.NameDisplay h1{
+    font-size: 2rem;
+    font-weight: 800;
+}

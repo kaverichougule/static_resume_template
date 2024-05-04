@@ -1,0 +1,26 @@
+.DisplayIcons{
+    display: flex;
+    gap: 2rem;
+    height: 100%;
+}
+.CompleteIcon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.iconBox{
+    border: 3px solid #141414;
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6FC2E6;
+}
+.icon{
+    font-size: 3rem;
+}
